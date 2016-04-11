@@ -1,0 +1,23 @@
+<info>
+	<name value="DRK-1" />
+	<surname value="Droïde Sonde Sith" />
+	<movment value="aero" />
+	<from value="starwars" />
+	<constructeur value="Industries Arakyd" />
+	<serie value="DRK-1" />
+	<modele value="Iris Sombre" />
+	<size value="0,30" />
+	<color value="black" />
+	<eyes value="red" />
+	<armement value="" />
+	<equipements> 
+		<equipement value="Scanner magnetique" />
+		<equipement value="Photorecepteur" />
+		<equipement value="Moteur a repulseur" />
+		<equipement value="Caméra thermique" />
+		<equipement value="Système de communication radio" />
+	</equipements> 
+	<affiliation value="Sith" />
+	<function value="espionnage, élimination" />
+	<epoque value="Ancienne republique" />
+</info>

@@ -1,0 +1,19 @@
+<info>
+	<real>true</real>
+	<name>Romeo</name>
+	<surname></surname>
+	<classe>Domestic</classe>
+	<movement>2 legs</movement>
+	<from>France</from>
+	<constructeur>Aldebaran robotics</constructeur>
+	<serie></serie>
+	<modele></modele>
+	<size></size>
+	<color></color>
+	<eyes></eyes>
+	<armement></armement>
+	<equipement></equipement>
+	<affiliation></affiliation>
+	<function>Aide à la personne</function>
+	<epoque>En développement</epoque>
+</info>

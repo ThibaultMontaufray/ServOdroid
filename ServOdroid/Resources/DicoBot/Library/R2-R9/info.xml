@@ -1,0 +1,17 @@
+<info>
+	<name value="R2-R9" />
+	<surname value="" />
+	<movment value="3 food_wheel" />
+	<from value="starwars" />
+	<constructeur value="Industrial Automaton" />
+	<serie value="R" />
+	<modele value="R2" />
+	<size value="0,96" />
+	<color value="red" />
+	<eyes value="" />
+	<armement value="" />
+	<equipements value="" /> 
+	<affiliation value="Force de securite Naboo, Nef Royale" />
+	<function value="Astromech" />
+	<epoque value="Ancienne republique" />
+</info>

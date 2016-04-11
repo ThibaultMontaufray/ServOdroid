@@ -1,0 +1,22 @@
+<info>
+	<name value="TC-14" />
+	<surname value="" />
+	<movment value="2 Food" />
+	<from value="starwars" />
+	<constructeur value="Cybot Galactica" />
+	<serie value="TC" />
+	<modele value="14" />
+	<size value="1,57" />
+	<color value="argente" />
+	<eyes value="yellow" />
+	<armement value="none" />
+	<equipements> 
+		<equipement value="Ordinateur de fonction logique" />
+		<equipement value="memory 11-1" />
+		<equipement value="vocodeur TranLang 111" />
+		<equipement value="audio sensors" />
+	</equipements> 
+	<affiliation value="Commercial Federation" />
+	<function value="Droïde d'accueil et de service" />
+	<epoque value="Ancienne Republique" />
+</info>

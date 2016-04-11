@@ -1,0 +1,22 @@
+<info>
+	<name value="R-10" />
+	<surname value="" />
+	<movment value="4 wheel" />
+	<from value="starwars" />
+	<constructeur value="Artisans de Lovolan" />
+	<serie value="R" />
+	<modele value="10" />
+	<size value="1" />
+	<color value="" />
+	<eyes value="" />
+	<armement value="none" />
+	<equipements> 
+		<equipement value="plateau magnétique" />
+		<equipement value="bras aspirateur" />
+		<equipement value="bras articulés de service" />
+		<equipement value="poubelle" />
+	</equipements> 
+	<affiliation value="Clientèle fortunée, notables" />
+	<function value="Droïde de service, domestique" />
+	<epoque value="empire" />
+</info>

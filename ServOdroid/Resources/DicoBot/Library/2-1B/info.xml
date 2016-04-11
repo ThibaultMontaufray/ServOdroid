@@ -1,0 +1,24 @@
+<info>
+	<name value="2-1B" />
+	<surname value="" />
+	<movment value="2 food" />
+	<from value="starwars" />
+	<constructeurs>
+		<constructeur part="développement">Geentech Corporation</constructeur>
+		<constructeur part="production">Industrial Automaton</constructeur>
+	<constructeurs>
+	<serie value="Droïde chirurgical 2-1B" />
+	<modele value="Droïde medical" />
+	<size value="1,50" />
+	<color value="gray" />
+	<eyes value="yellow" />
+	<armement value="none" />
+	<equipements> 
+		<equipement value="Bras modulaire" />
+		<equipement value="Instruments chirurgicaux" />
+		<equipement value="Interface" />
+	</equipements> 
+	<affiliation value="none" />
+	<function value="droîde medical" />
+	<epoque value="Nouvelle republique" />
+</info>

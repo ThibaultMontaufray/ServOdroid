@@ -1,0 +1,166 @@
+﻿@{
+    ViewBag.Title = "DicoBot : " + ViewBag.Message;
+}
+<center><h2>@ViewBag.Title.</h2></center>
+
+<div id="wowslider-container1">
+    <div class="ws_images">
+        <ul>
+            @for(int i=0 ; i<ViewBag.Robot.PicturePath.Count ; i++)
+            {
+                <li><img class="DicoBotVignette" src="@ViewBag.Robot.PicturePath[i]" alt="@ViewBag.Robot.Name" title="@ViewBag.Robot.Name" id="wows1_@i" /></li>
+            }
+        </ul>
+    </div>
+    <div class="ws_thumbs">
+        <div>
+            @for (int i = 0; i < ViewBag.Robot.PicturePath.Count; i++)
+            {
+                <a href="#" title="@ViewBag.Robot.Name"><img class="DicoBotPreview" style="width:100%" src="@ViewBag.Robot.PicturePath[i]" alt="@ViewBag.Robot.Name" /></a>
+            }
+        </div>
+    </div>
+    <div class="ws_script" style="position:absolute;left:-99%"><a href="http://servodroid.com">bootstrap carousel</a> by WOWSlider.com v8.2</div>
+    <div class="ws_shadow"></div>
+</div>
+<br />
+<div id="DicoBotTicket">
+    <h2>Fiche technique</h2>
+    <table>
+        @{ 
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Name))
+            {
+                <tr>
+                    <td>Name : </td>
+                    <td>@ViewBag.Robot.Name</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Surname))
+            {
+                <tr>
+                    <td>Surname : </td>
+                    <td>@ViewBag.Robot.Surname</td>
+                </tr>
+            }        
+        }          
+                <tr>
+                    <td>Real : </td>
+                    <td>@ViewBag.Robot.Real</td>
+                </tr>    
+        @{
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Function))
+            {
+                <tr>
+                    <td>Function : </td>
+                    <td>@ViewBag.Robot.Function</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Constructor))
+            {
+                <tr>
+                    <td>Constructor : </td>
+                    <td>@ViewBag.Robot.Constructor</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Serie))
+            {
+                <tr>
+                    <td>Serie : </td>
+                    <td>@ViewBag.Robot.Serie</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Model))
+            {
+                <tr>
+                    <td>Model : </td>
+                    <td>@ViewBag.Robot.Model</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Movment))
+            {
+                <tr>
+                    <td>Movment : </td>
+                    <td>@ViewBag.Robot.Movment</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.From))
+            {
+                <tr>
+                    <td>From : </td>
+                    <td>@ViewBag.Robot.From</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Size))
+            {
+                <tr>
+                    <td>Size : </td>
+                    <td>@ViewBag.Robot.Size</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Color))
+            {
+                <tr>
+                    <td>Color : </td>
+                    <td>@ViewBag.Robot.Color</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Eyes))
+            {
+                <tr>
+                    <td>Eyes : </td>
+                    <td>@ViewBag.Robot.Eyes</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Armement))
+            {
+                <tr>
+                    <td>Armement : </td>
+                    <td>@ViewBag.Robot.Armement</td>
+                </tr>
+            }
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Equipements))
+            {
+                <tr>
+                    <td>Equipements : </td>
+                    <td>@ViewBag.Robot.Equipements</td>
+                </tr>
+            }
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Affiliation))
+            {
+                <tr>
+                    <td>Affiliation : </td>
+                    <td>@ViewBag.Robot.Affiliation</td>
+                </tr>
+            }            
+            if (!string.IsNullOrEmpty(@ViewBag.Robot.Epoque))
+            {
+                <tr>
+                    <td>Epoque : </td>
+                    <td>@ViewBag.Robot.Epoque</td>
+                </tr>
+            }
+        }
+    </table>
+</div>
+<div id="DicoBotDescription">
+    <h2>Description</h2>
+    @ViewBag.Robot.Description
+</div>
+@if (ViewBag.Robot.Links.Count > 0)
+{
+    <div id="DicoBotLinks">
+        <h2>Liens externes</h2>
+        <ul>
+            @for (int i = 0; i < ViewBag.Robot.Links.Count; i++)
+            {
+                <li><a href="@ViewBag.Robot.Links[i]">@ViewBag.Robot.Links[i]</a></li>
+            }
+        </ul>
+    </div>
+}
+@if (!string.IsNullOrEmpty(@ViewBag.Robot.VideoPath))
+{
+    <div id="DicoBotVideo">
+        <h2>Video</h2>
+    </div>
+}

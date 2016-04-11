@@ -1,0 +1,27 @@
+<info>
+	<real>false</real>
+	<name>Droïde assistant médical</name>
+	<surname></surname>
+	<classe>Medical</classe>
+	<movement>2 wheels</movement>
+	<from>Star Wars</from>
+	<constructeur>MedTech Industries</constructeur>
+	<serie>6</serie>
+	<modele>FX</modele>
+	<size>1.83</size>
+	<color></color>
+	<eyes></eyes>
+	<armement></armement>
+	<equipement>Synthétiseur vocal droïde</equipement>
+	<equipement>Processeurs analytiques</equipement>
+	<equipement>Senseurs de diagnostic</equipement>      
+	<equipement>Moniteurs de surveillance</equipement>
+	<equipement>Port de connexion</equipement>
+	<equipement>7 bras de reconstruction chirurgicale</equipement>
+	<equipement>Boîtes à transfusion sanguine</equipement>
+	<affiliation>Empire Galactique</affiliation>
+	<affiliation>Alliance Rebelle</affiliation>
+	<affiliation>Centres médicaux galactiques</affiliation>
+	<function>Assistance en chirurgie</function>
+	<epoque></epoque>
+</info>

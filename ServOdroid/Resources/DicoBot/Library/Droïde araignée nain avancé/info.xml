@@ -1,0 +1,20 @@
+<info>
+	<real>false</real>
+	<name>Droïde araignée nain avancé</name>
+	<surname></surname>
+	<classe>Militaire</classe>
+	<movement>4 legs</movement>
+	<from>Star Wars</from>
+	<constructeur>Baktoid Combat Automata</constructeur>
+	<serie>DSD</serie>
+	<modele>A</modele>
+	<size></size>
+	<color></color>
+	<eyes></eyes>
+	<armement>1 canon blaster lourd</armement>
+	<armement>2 lance-missiles téléguidés</armement>
+	<equipement></equipement>
+	<affiliation>Confédération des Systèmes Indépendants</affiliation>
+	<function>Protection de positions stratégiques</function>
+	<epoque></epoque>
+</info>

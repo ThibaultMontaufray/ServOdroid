@@ -1,0 +1,27 @@
+﻿<info>
+	<real>false</real>
+	<name>Droide Medical</name>
+	<surname></surname>
+	<classe>Medical</classe>
+	<movement></movement>
+	<from>Star Wars</from>
+	<constructeur>Cybot Galactica</constructeur>
+	<serie>7</serie>
+	<modele>GH</modele>
+	<size>0.70</size>
+	<color></color>
+	<eyes></eyes>
+	<armement></armement>
+	<equipement>Bioscanners stéréoscopiques</equipement>
+	<equipement>Préleveur d'échantillons</equipement>
+	<equipement>Unité à répulsion</equipement>
+	<equipement>Lecteur à résonance magnétique</equipement>
+	<equipement>Synthétiseur vocal</equipement>
+	<equipement>Écran d'affichage</equipement>
+	<equipement>Sonde de diagnostic</equipement>
+	<affiliation>Centre médicaux galactiques</affiliation>
+	<affiliation>Centre médical de Polis Massa</affiliation>
+	<function>Assistance chirurgicale</function>
+	<function>Hématologie</function>
+	<epoque></epoque>
+</info>

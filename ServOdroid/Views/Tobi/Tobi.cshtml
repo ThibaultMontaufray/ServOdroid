@@ -1,0 +1,105 @@
+﻿
+@*@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    ViewBag.Title = "Tobi assistant";*@
+
+    <h2>Tobi assistant</h2>
+    @section scripts {
+        <script src="~/Scripts/jquery.signalR-2.0.3.min.js"></script>
+        <script src="~/signalr/hubs"></script>
+        <script>
+            $(function () {
+                var display = false;
+                var tobi = $.connection.tobiHub;
+                tobi.client.addNewUserMessageToPage = function (message) {
+                    $('#discussion').append('<li><span class="ChatUserName">Vous : </span>' + htmlEncode(message) + '</li>');
+                    var elem = document.getElementById("tobiOutput");
+                    elem.scrollTop = elem.scrollHeight;
+                    $('#tobiInput').empty();
+                    document.getElementById("tobiReflexion").style.display = 'block';
+                };
+                tobi.client.addNewTobiMessageToPage = function (message) {
+                    $('#discussion').append('<li><span class="ChatTobiName">Tobi : </span>' + htmlEncode(message) + '</li>');
+                    var elem = document.getElementById("tobiOutput");
+                    elem.scrollTop = elem.scrollHeight;
+                    document.getElementById("tobiReflexion").style.display = 'none';
+                };
+                tobi.client.resultToDisplay = function (result, sentense) {
+                    htmlDisplay = result;
+                    sentenseDisplay = sentense;
+                    displayAll();
+                }
+                tobi.client.reflexion = function (inProgress) {
+                }
+                $('#tobiInput').focus();
+                $.connection.hub.start().done(function () {
+                    $('#sendmessage').click(function () {
+                        tobi.server.send($('#displayname').val(), $('#tobiInput').val());
+                        $('#tobiInput').val('').focus();
+                    });
+                    $('#tobiSwitch').click(function () {
+                        display = !display;
+                        displayAll();
+                    });
+                });
+                function displayAll() {
+                    $('#TobiDetail').empty();
+                    $('#tobiSwitch').empty();
+                    if (display) {
+                        $('#TobiDetail').append(sentenseDisplay);
+                        $('#tobiSwitch').append("Passer à l'affichage du résultat de Tobi");
+                    }
+                    else {
+                        $('#TobiDetail').append(htmlDisplay);
+                        $('#tobiSwitch').append("Afficher l'interprétation de votre question");
+                    }
+                    if (htmlDisplay == null && sentenseDisplay == null) {
+                        document.getElementById("tobiSwitch").style.display = 'none';
+                        document.getElementById("TobiDetail").style.marginTop = '5px';
+                    }
+                    else {
+                        document.getElementById("tobiSwitch").style.display = 'block';
+                        document.getElementById("TobiDetail").style.marginTop = '-24px';
+                    }
+                };
+            });
+            function htmlEncode(value) {
+                var encodedValue = $('<div />').text(value).html();
+                return encodedValue;
+            }
+        </script>
+    }
+
+    @*<table style="width:100%; margin-left:-5px; margin-bottom:10px;margin-top:-30px;">
+        <tr>
+            <td style="width:380px;padding-top:29px;">*@
+                <div class="tobiDialogue">
+                    <div id="tobiOutput">
+                        <ul id="discussion"></ul>
+                    </div>
+                    <div id="tobiReflexion">Tobi réfléchit ...</div>
+                    <input type="text" id="tobiInput" />
+                    <input type="hidden" id="displayname" />
+                    <input type="image" src="../../Resources/IconMenu/submit.png" style="float:right; padding:5px; padding-top:15px; margin-right:5px;" id="sendmessage" />
+                </div>
+            @*</td>
+            <td>*@
+                <div id="tobiSwitch">Afficher l'interprétation de votre question</div>
+                <div id="TobiDetail">
+                    &nbsp;
+                </div>
+            @*</td>
+        </tr>
+    </table>*@
+@*}
+else
+{
+    ViewBag.Title = "Tobi assistant";
+    <h2>Tobi Assistant.</h2>
+    <br />
+    <p style="color:#000;">Tobi assistant est une entité à votre service pour vous aider au quotidient.</p>
+    <p style="color:#000;">Pour bénéficier de son aide, vous devez vous identifier.</p>
+    <p style="color:#000;">Le service est limité à quelques utilisateurs pendant sa phase de lancement (jusqu'au 10 Aout 2016).</p>
+    <br />
+}*@

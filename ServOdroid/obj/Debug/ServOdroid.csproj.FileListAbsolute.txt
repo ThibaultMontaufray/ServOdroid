@@ -1,0 +1,359 @@
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\obj\Debug\ServOdroid.csprojResolveAssemblyReference.cache
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\csc.exe
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\vbc.exe
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\ServOdroid.dll.config
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\ServOdroid.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\ServOdroid.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Antlr3.Runtime.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\EntityFramework.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\EntityFramework.SqlServer.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Newtonsoft.Json.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Owin.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\PagedList.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Helpers.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Mvc.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Optimization.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Razor.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.WebPages.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\WebGrease.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\PagedList.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Helpers.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Mvc.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Optimization.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.Razor.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.WebPages.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Antlr3.Runtime.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Newtonsoft.Json.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\EntityFramework.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\EntityFramework.SqlServer.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\EntityFramework.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\obj\Debug\ServOdroid.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\OLD2ServOdroid\ServOdroid\obj\Debug\ServOdroid.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\csc.exe
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\vbc.exe
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\ServOdroid.dll.config
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\ServOdroid.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\ServOdroid.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Antlr3.Runtime.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.SqlServer.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Iesi.Collections.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Tobi.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Newtonsoft.Json.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\NHibernate.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\NLog.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Owin.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\PagedList.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Abstractions.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.AspNet.SessionState.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Client.Lightweight.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Helpers.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Mvc.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Optimization.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Razor.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\WebGrease.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_litterature.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_database.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_financial.exe
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools_Generic.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Data.SqlServerCe.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\MySql.Data.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Windows.Forms.Ribbon35.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\itextsharp.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Tobi.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Iesi.Collections.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\NHibernate.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\NLog.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\PagedList.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Abstractions.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Abstractions.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Client.Lightweight.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Client.Lightweight.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Helpers.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Mvc.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Optimization.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Razor.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Antlr3.Runtime.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Newtonsoft.Json.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.SqlServer.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_litterature.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_database.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_financial.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools_Generic.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\EntityFramework.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Data.SqlServerCe.resources.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\Servodroid.csprojResolveAssemblyReference.cache
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.dll
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.pdb
+C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Aspose.OCR.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\Servodroid.csprojResolveAssemblyReference.cache
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\csc.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\System.Collections.Immutable.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\System.Reflection.Metadata.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\vbc.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\VBCSCompiler.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\VBCSCompiler.exe.config
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\ServOdroid.dll.config
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\ServOdroid.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\ServOdroid.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Antlr3.Runtime.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.SqlServer.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Iesi.Collections.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_deployer.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_financial.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Image.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_logistique.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_maths.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_monitoring.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_scheduler.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Tobi.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_trading.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_video.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Google.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Web.Infrastructure.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Newtonsoft.Json.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\NHibernate.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\NLog.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Owin.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\PagedList.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Abstractions.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.AspNet.SessionState.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Client.Lightweight.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Helpers.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Mvc.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Optimization.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Razor.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Deployment.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Razor.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\WebGrease.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools_Generic.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Octokit.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_database.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Aspose.OCR.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Windows.Forms.Ribbon35.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\itextsharp.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_litterature.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Data.SqlServerCe.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\MySql.Data.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_communication.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_deployer.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_logistique.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_maths.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_scheduler.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_trading.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_web.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_financial.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Image.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_monitoring.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_video.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Tobi.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Iesi.Collections.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\NHibernate.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\NLog.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\PagedList.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Abstractions.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Abstractions.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Client.Lightweight.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Raven.Client.Lightweight.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Helpers.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Mvc.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Optimization.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.Razor.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Deployment.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Razor.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Antlr3.Runtime.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Newtonsoft.Json.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.SqlServer.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Google.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools_Generic.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Octokit.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Octokit.xml
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_database.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_litterature.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Helpers.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Mvc.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Optimization.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.Razor.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.WebPages.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\EntityFramework.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Data.SqlServerCe.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_web.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_communication.exe

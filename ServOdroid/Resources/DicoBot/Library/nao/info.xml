@@ -1,0 +1,20 @@
+<info>
+	<real value="true" />
+	<name value="" />
+	<surname value="" />
+	<movment value="" />
+	<from value="" />
+	<constructeur value="" />
+	<serie value="" />
+	<modele value="" />
+	<size value="" />
+	<color value="" />
+	<eyes value="" />
+	<armement value="" />
+	<equipements> 
+		<equipement value="" />
+	</equipements> 
+	<affiliation value="" />
+	<function value="" />
+	<epoque value="" />
+</info>

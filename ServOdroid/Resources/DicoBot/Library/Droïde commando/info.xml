@@ -1,0 +1,25 @@
+<info>
+	<real></real>
+	<name>Droïde commando</name>
+	<surname></surname>
+	<classe>Militaire</classe>
+	<movement>2 legs</movement>
+	<from>Star Wars</from>
+	<constructeur>Baktoid Combat Automata</constructeur>
+	<serie>BX</serie>
+	<modele></modele>
+	<size>1.91</size>
+	<color></color>
+	<eyes></eyes>
+	<armement>Fusil blaster E-5</armement>
+	<armement>Vibrolame</armement>
+	<armement>Détonateurs thermiques</armement>
+	<armement>Cutter à fusion</armement>
+	<armement>Pistolet paralysant</armement>
+	<equipement></equipement>
+	<affiliation>Confédération des Systèmes Indépendants</affiliation>
+	<affiliation>Fédération du commerce</affiliation>
+	<affiliation>Chasseurs de primes</affiliation>
+	<function>Combat, infiltration</function>
+	<epoque></epoque>
+</info>

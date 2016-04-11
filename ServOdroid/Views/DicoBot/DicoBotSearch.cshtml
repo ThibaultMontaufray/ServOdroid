@@ -1,0 +1,102 @@
+﻿
+
+
+@{
+    ViewBag.Title = "DicoBot";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@*@<div id="wowslider-container1">
+    <div id="dicoBotFilter">
+        Real @Html.CheckBox("CBReal")
+        Name @Html.TextBox("Name")
+        Surname @Html.TextBox("Surame")
+        Classe @Html.TextBox("Class")
+        Origine @Html.TextBox("Origni")
+        Constructeur @Html.TextBox("Constructor")
+        Serie @Html.TextBox("Serie")
+        Modele @Html.TextBox("Model")
+        Size min @Html.TextBox("SizeMin")
+        Size max @Html.TextBox("SizeMax")
+        Color @Html.TextBox("Color")
+        Epoque @Html.TextBox("Epoque")
+
+        <input type="submit" value="Search" />
+
+        <section id="DicoBotForm">
+            @using (Html.BeginForm("DicoFilter", "DicoBot", new { ReturnUrl = ViewBag.ReturnFilter }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h4>Filtrez votre recherche</h4>
+                <hr />
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+                    <div class="col-md-10">
+                        Name : @Html.TextBox("Name")
+                        Is real : @Html.CheckBox("CBReal")
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Filtrer" class="btn btn-default" />
+                    </div>
+                </div>
+            }
+        </section>
+
+    </div>
+    <br />
+    <div class="box">
+
+        <h2>Robots</h2>
+
+        <p>
+            @Html.ActionLink("Create new", "Create")
+        </p>
+        @using (Html.BeginForm("Index", "Robot", FormMethod.Get))
+        {
+            <p>
+                Find by name : @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+                <input type="submit" value="Search" />
+            </p>            
+        }
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+                </th>
+                <th>
+                    First name
+                </th>
+                <th>
+                    @Html.ActionLink("Enrolmlent Date", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFIlter })
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstMidName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EnrollmentDate)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id=item.ID })
+                    </td>
+                </tr>
+            }
+                
+        </table>
+        <br />
+        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.Page.Count
+
+        @Html.PagedListPager(Model, Page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+    </div>
+</div>*@

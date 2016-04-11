@@ -1,0 +1,20 @@
+<info>
+	<real value="true" />
+	<name value="scooba-230" />
+	<surname value="" />
+	<movment value="2 wheel" />
+	<from value="" />
+	<constructeur value="IRobot" />
+	<serie value="scooba" />
+	<modele value="230" />
+	<size value="" />
+	<color value="blue" />
+	<eyes value="" />
+	<armement value="" />
+	<equipements> 
+		<equipement value="" />
+	</equipements> 
+	<affiliation value="" />
+	<function value="nettoyage serpillère" />
+	<epoque value="" />
+</info>

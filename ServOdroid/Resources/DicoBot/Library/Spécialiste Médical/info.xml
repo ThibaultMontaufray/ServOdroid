@@ -1,0 +1,24 @@
+<info>
+	<real>false</real>
+	<name>Spécialiste Médical</name>
+	<surname></surname>
+	<classe>Medical</classe>
+	<movement></movement>
+	<from>Star Wars</from>
+	<constructeur>Industrial Automaton</constructeur>
+	<serie></serie>
+	<modele>MD</modele>
+	<size>1.50</size>
+	<color></color>
+	<eyes></eyes>
+	<armement></armement>
+	<equipement>Mains détachables</equipement>
+	<equipement>Ordinateurs de diagnostic</equipement>
+	<equipement>Photorécepteurs</equipement>
+	<equipement>Blouse chirurgicale</equipement>
+	<equipement>Synthétiseur vocal</equipement>
+	<affiliation></affiliation>
+	<function>Soins</function>
+	<epoque></epoque>
+	<picture>http://www.starwars-holonet.com/encyclopedie/droide-md.html</picture>
+</info>   

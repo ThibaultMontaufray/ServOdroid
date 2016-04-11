@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.2</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>32</FontSize>
+            <FullScreen>true</FullScreen>
+            <GalleryName>demo</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blur</ImageEffect>
+            <ImageFillColor>#dddddd</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/gothic/</ImageTemplate>
+            <ImageTemplateName>Gothic</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/DEV/Servodroid/Servodroid/Servodroid/Resources dev/demo/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>D:/DEV/Servodroid/Servodroid/Servodroid/Resources dev/demo</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Didact Gothic</TemplateFont>
+            <TemplateName>gothic</TemplateName>
+            <ThumbAlign>left</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>0</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>120</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Thib/Pictures/abstract_retro_brown_backgrounds_Wallpaper_1600x1200_www.wallpaperswa.com.jpg</url>
+                <title>abstract_retro_brown_backgrounds_Wallpaper_1600x1200_www.wallpaperswa.com</title>
+                <usertarget>_self</usertarget>
+                <filesize>1121748</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Thib/Pictures/light_abstract_nature_yellow_orange_luminiscence_Wallpaper_1600x1200_www.wallpaperswa.com.jpg</url>
+                <title>light_abstract_nature_yellow_orange_luminiscence_Wallpaper_1600x1200_www.wallpaperswa.com</title>
+                <filesize>817445</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Thib/Pictures/vector-of-geometric-lines-for-background-4821.jpg</url>
+                <title>vector-of-geometric-lines-for-background-4821</title>
+                <filesize>2997089</filesize>
+            </Image>
+            <Image>
+                <url>D:/DEV/Servodroid/Servodroid/Servodroid/Resources/DicoBot/Library/roomba-535/picture_0.jpeg</url>
+                <title>picture_0</title>
+                <filesize>4021</filesize>
+            </Image>
+            <Image>
+                <url>D:/DEV/Servodroid/Servodroid/Servodroid/Resources/DicoBot/Library/roomba-535/picture_1.jpeg</url>
+                <title>picture_1</title>
+                <filesize>5902</filesize>
+            </Image>
+            <Image>
+                <url>D:/DEV/Servodroid/Servodroid/Servodroid/Resources/DicoBot/Library/roomba-535/picture_2.jpeg</url>
+                <title>picture_2</title>
+                <filesize>9399</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,21 @@
+<info>
+	<real>true</real>
+	<name>BigDog</name>
+	<surname>robot mule</surname>
+	<classe>Militaire</classe>
+	<movement>4 legs</movement>
+	<from>United States</from>
+	<constructeur>Boston dynamics</constructeur>
+	<serie></serie>
+	<modele></modele>
+	<size>0.91</size>
+	<weigh>1106.4kmh</weigh>
+	<maxspeed></maxspeed>
+	<color></color>
+	<eyes></eyes>
+	<armement></armement>
+	<equipement></equipement>
+	<affiliation></affiliation>
+	<function>Transport de matériel</function>
+	<epoque>2005</epoque>
+</info>

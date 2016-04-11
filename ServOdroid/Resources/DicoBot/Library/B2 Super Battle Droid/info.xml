@@ -1,0 +1,20 @@
+ <info>
+	   <real>false</real>
+	   <name>B2 Super Battle Droid</name>
+	   <surname>Super Droïde de Combat B2</surname>
+	   <classe>Militaire</classe>
+	   <movement>2 legs</movement>
+	   <from>Star Wars</from>
+	   <constructeur>Baktoid Combat Automata</constructeur>
+	   <serie></serie>
+	   <modele></modele>
+	   <size>1.93</size>
+	   <color></color>
+	   <eyes></eyes>
+	   <armement>1 double canon blaster</armement>
+	   <equipement></equipement>
+	   <affiliation>Fédération du commerce</affiliation>
+	   <affiliation>Confédération des systèmes indépendants</affiliation>
+	   <function>Combat rapproché</function>
+	   <epoque></epoque>
+ </info>

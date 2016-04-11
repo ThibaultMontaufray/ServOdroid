@@ -1,0 +1,20 @@
+ <info>
+	   <real>false</real>
+	   <name>Droïde de Combat Baron E4</name>
+	   <surname></surname>
+	   <classe>Militaire</classe>
+	   <movement>2 legs</movement>
+	   <from>Star Wars</from>
+	   <constructeur>Baktoid Combat Automata</constructeur>
+	   <serie></serie>
+	   <modele></modele>
+	   <size></size>
+	   <color></color>
+	   <eyes></eyes>
+	   <armement>1 double canon laser</armement>
+	   <armement>1 lance-missile</armement>
+	   <equipement></equipement>
+	   <affiliation>Fédération du commerce</affiliation>
+	   <function>Garde du corps, combat</function>
+	   <epoque></epoque>
+ </info>

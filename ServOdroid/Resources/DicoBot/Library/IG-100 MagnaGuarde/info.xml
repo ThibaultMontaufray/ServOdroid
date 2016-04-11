@@ -1,0 +1,23 @@
+<info>
+	<name value="IG-100 MagnaGuarde" />
+	<surname value="" />
+	<movment value="2 food" />
+	<from value="starwars" />
+	<constructeur value="Holowan Mechanicals" />
+	<serie value="IG" />
+	<modele value="100" />
+	<size value="1,95" />
+	<color value="gray" />
+	<eyes value="red" />
+	<armement value="" />
+	<equipements> 
+		<equipement value="" />
+	</equipements> 
+	<affiliation value="Confédération des Systèmes Indépendants" />
+	<function value="Protection rapprochée du Général Grievous" />
+	<epoques>
+		<epoque value="Ancienne République" />
+		<epoque value="Guerre des Clones" />
+		<epoque value="Avènement de l'Empire" />
+	</epoques>
+</info>

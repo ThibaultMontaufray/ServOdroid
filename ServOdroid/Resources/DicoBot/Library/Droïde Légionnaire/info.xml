@@ -1,0 +1,20 @@
+ <info>
+	<real>false</real>
+	<name>Droïde Légionnaire</name>
+	<surname></surname>
+	<classe>Militaire</classe>
+	<movement>2 legs</movement>
+	<from>Star Wars</from>
+	<constructeur>Baktoid Combat Automata</constructeur>
+	<serie>Droïde de combat</serie>
+	<modele></modele>
+	<size>1.70</size>
+	<color></color>
+	<eyes></eyes>
+	<armement>Brietto AAP-II "Boîte-blaster"</armement>
+	<equipement>Kit de premier secours interne</equipement>
+	<affiliation>Mandaloriens</affiliation>
+	<affiliation>Confédération des Systèmes Indépendants</affiliation>
+	<function>Combat en première ligne</function>
+	<epoque></epoque>
+ </info>

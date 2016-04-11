@@ -1,0 +1,22 @@
+<info>
+	<name value="WA-7" />
+	<surname value="Flo" />
+	<movment value="1 wheel" />
+	<from value="starwars" />
+	<constructeur value="GoCorp - Utilitech" />
+	<serie value="WA" />
+	<modele value="droïde de service WA-7" />
+	<size value="1,70" />
+	<color value="red" />
+	<eyes value="yellow" />
+	<armement value="none" />
+	<equipements> 
+		<equipement value="Stabilisateur" />
+		<equipement value="Vocodeur" />
+		<equipement value="Système de transmission de commande" />
+		<equipement value="Logiciel de reconnaissance de visage" />
+	</equipements> 
+	<affiliation value="Restaurant de Dexter Jettster" />
+	<function value="Droïde serveuse" />
+	<epoque value="Ancienne République" />
+</info>

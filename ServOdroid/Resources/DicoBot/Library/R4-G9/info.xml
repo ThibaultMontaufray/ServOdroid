@@ -1,0 +1,17 @@
+<info>
+	<name value="R4-G9" />
+	<surname value="" />
+	<movment value="3 food_wheel" />
+	<from value="starwars" />
+	<constructeur value="Industrial automaton" />
+	<serie value="R" />
+	<modele value="R2" />
+	<size value="0,96" />
+	<color value="white bronze" />
+	<eyes value="" />
+	<armement value="" />
+	<equipements value="" /> 
+	<affiliation value="Chasseur Jedi" />
+	<function value="Astromech" />
+	<epoque value="Ancienne republique" />
+</info>

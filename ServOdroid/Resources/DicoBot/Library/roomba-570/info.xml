@@ -1,0 +1,20 @@
+<info>
+	<real value="true" />
+	<name value="roomba-570" />
+	<surname value="" />
+	<movment value="2 wheel" />
+	<from value="" />
+	<constructeur value="IRobot" />
+	<serie value="roomba" />
+	<modele value="570" />
+	<size value="34x9" />
+	<color value="black" />
+	<eyes value="" />
+	<armement value="" />
+	<equipements> 
+		<equipement value="" />
+	</equipements> 
+	<affiliation value="" />
+	<function value="nettoyage aspirateur" />
+	<epoque value="" />
+</info>

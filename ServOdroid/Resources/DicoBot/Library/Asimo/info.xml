@@ -1,0 +1,21 @@
+<info>
+	<real>true</real>
+	<name>Asimo</name>
+	<surname>Advanced Step in Innovative MObility</surname>
+	<classe>Domestique</classe>
+	<movement>2 legs</movement>
+	<from>Japan</from>
+	<constructeur>Honda</constructeur>
+	<serie></serie>
+	<modele></modele>
+	<size>1.30</size>
+	<weigh>48</weigh>
+	<maxspeed>9kmh</maxspeed>
+	<color></color>
+	<eyes></eyes>
+	<armement></armement>
+	<equipement></equipement>
+	<affiliation></affiliation>
+	<function>Demonstrations, accueils</function>
+	<epoque>2011</epoque>
+</info>

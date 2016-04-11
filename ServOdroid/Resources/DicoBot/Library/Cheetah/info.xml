@@ -1,0 +1,21 @@
+<info>
+	<real>true</real>
+	<name>Cheetah</name>
+	<surname></surname>
+	<classe>Militaire</classe>
+	<movement>4 legs</movement>
+	<from>United States</from>
+	<constructeur>Boston dynamics</constructeur>
+	<serie></serie>
+	<modele></modele>
+	<size></size>
+	<weigh></weigh>
+	<maxspeed>45.5kmh</maxspeed>
+	<color></color>
+	<eyes></eyes>
+	<armement></armement>
+	<equipement></equipement>
+	<affiliation></affiliation>
+	<function>Devenir le robot le plus rapide</function>
+	<epoque>2012</epoque>
+</info>

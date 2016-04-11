@@ -1,0 +1,20 @@
+<info>
+	<real value="no" />
+	<name value="burn-e" />
+	<surname value="" />
+	<movment value="rail" />
+	<from value="wall-e" />
+	<constructeur value="B&L" />
+	<serie value="burn" />
+	<modele value="e" />
+	<size value="" />
+	<color value="whirte;red" />
+	<eyes value="blue" />
+	<armement value="" />
+	<equipements> 
+		<equipement value="" />
+	</equipements> 
+	<affiliation value="" />
+	<function value="maintenance" />
+	<epoque value="2110" />
+</info>

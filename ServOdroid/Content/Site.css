@@ -1,0 +1,289 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 60px;
+    background-image: url("../Resources/wallpaper.jpg");
+    background-size:cover;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    background-color: #999;
+    opacity:0.92;
+    border-radius: 7px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+a {
+    color : #333;
+}
+a:hover {
+    color : #632;
+    text-decoration : underline;
+}
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select {
+    max-width: 300px;
+}
+
+.box {
+    background-color: #DDD;
+    opacity:0.7;
+    padding:10px;
+    border-radius: 9px;
+}
+
+.contactLink {
+    color:black;
+    text-decoration:underline;
+}
+#dicoBotFilter {
+    background-color: #DDD;
+    padding:10px;
+    border-radius: 9px;
+    color:black;
+    font-size:16px;
+    float:left;
+}
+#DicoBotDescription {
+    background-color: #DDD;
+    padding:10px;
+    margin:5px;
+    border-radius: 9px;
+    display:block;
+    position:relative;
+    max-width:70%;
+    min-width:200px;
+    float:left;
+}
+#DicoBotLinks {
+    background-color: #DDD;
+    padding:10px;
+    margin:5px;
+    border-radius: 9px;
+    display:block;
+    position:relative;
+    min-width:300px;
+    width:70%;
+    float:left;
+}
+#DicoBotVideo {
+    background-color: #DDD;
+    padding:10px;
+    margin:5px;
+    border-radius: 9px;
+    display:block;
+    position:relative;
+    float:left;
+    min-width:300px;
+    width:100%;
+}
+#DicoBotTicket {
+    background-color: #DDD;
+    padding:10px;
+    margin:5px;
+    border-radius: 9px;
+    display:block;
+    position:relative;
+    max-width:28%;
+    min-width:300px;
+    min-height:320px;
+    float:left;
+}
+.DicoBotPreview {
+
+}
+.DicoBotVignette {
+    background-repeat:no-repeat;
+}
+
+.tobiTable
+{
+    width:100%;
+    border:10px solid #DDD;
+}
+.tobiTable td{
+    width:50%;
+}
+.tobiUserInfo {
+    width:98%;
+    background-color:black;
+    min-height:400px;
+    margin:5px;
+    padding:10px;
+    border-radius: 4px;
+    color:#FFF;
+}
+#tobiInput {
+    width:300px;
+    height:50px;
+    background-color:#bbb;
+    color:#000;
+    padding:10px;
+    border-radius: 4px;
+    border : 1px solid #f88100;
+    margin : auto;
+    margin-top:5px;
+    float:left;
+    overflow:auto;
+}
+#tobiReflexion {
+    position:absolute; 
+    top:-20px; 
+    left:240px; 
+    background-color:#000; 
+    color:#ff6a00; 
+    width:135px; 
+    height:28px;
+    border-radius: 4px;
+    padding:4px;
+    padding-left:10px;
+    padding-top:1px;
+    display:none;
+}
+#tobiSwitch{    
+    position: relative;
+    top: -15px;
+    left: 4px;
+    background-color: #000;
+    color: #ff6a00;
+    width: 300px;
+    height: 28px;
+    border-radius: 4px;
+    padding: 4px;
+    padding-left: 10px;
+    padding-top: 0px;
+    display: none;
+    float: left;
+    border: 1px solid #000;
+}
+#tobiSwitch:hover {
+    background-color: #333;
+    cursor:pointer;
+}
+#tobiOutput {
+    overflow:auto;
+    width:100%;
+    height:380px;
+    background-color:#bbb;
+    color:#000;
+    padding:10px;
+    padding-left : 0px;
+    border-radius: 4px;
+    border : 1px solid #f88100;
+    margin : auto;
+    float:left;
+}
+#tobiOutput ul{
+    padding-left : 25px;
+}
+.ChatUserName{
+    font-weight : bold;
+    color : #aa6600;
+}
+.ChatTobiName{
+    font-weight : bold;
+    color : #b72200;
+}
+.TobiButton {
+    width : 40px;
+    background-color:#222;
+    margin:2px;
+    padding:2px;
+    padding-top : 4px;
+    padding-left : 4px;
+    border-radius: 4px;
+    color:#FFF;
+    float:right;
+}
+.TobiButton:hover{
+    width : 40px;
+    background-color:#AAA;
+    margin:2px;
+    padding:2px;
+    padding-top : 4px;
+    padding-left : 4px;
+    border-radius: 4px;
+    color:#FFF;
+    float:right;
+}
+.tobiDialogue {
+    min-width: 375px;
+    height: 455px;
+    background-color: black;
+    margin: 5px;
+    margin-bottom:30px;
+    margin-right:8px;
+    padding: 10px;
+    border-radius: 4px;
+    color: #FFF;
+    position: relative;
+    top: 0px;
+    float: left;
+    width: 10%;
+}
+#TobiDetail{  
+    background-color: black;
+    min-height: 455px;
+    min-width: 650px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 4px;
+    color: #FFF;
+    position: relative;
+    float: left;
+    margin-left: 4px;
+    padding-bottom: 1px;
+    top: 0px;
+    width: 64%;
+}
+.TobiAnswerTable {
+    border-radius: 4px;
+    width:100%;
+    margin-bottom:10px;
+}
+.TobiAnswerTableHeader th{
+    background-color:#7F0000;
+    color:#FFF;
+    padding : 4px;
+    font-weight : bold;
+}
+.TobiAnswerTableTD0 td{
+    background-color:#373737;
+    color:#FFF;
+    padding : 4px;
+    font-weight : normal;
+}
+.TobiAnswerTableTD1 td{
+    background-color:#737373;
+    color:#FFF;
+    padding : 4px;
+    font-weight : normal;
+}
+.tobiTable {
+    width:100%;
+}
+#actionLabel{
+    margin-top:4px;
+    margin-bottom:4px;
+    border:1px solid #000; 
+    background-color:#111;
+    padding:5px;
+    color:#ccc;
+}
+#passwordServer {
+	width:500px;
+	margin-top:25px;
+	background-color:#ccc;
+	color:#000;
+}

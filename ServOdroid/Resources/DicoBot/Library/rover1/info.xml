@@ -1,0 +1,20 @@
+<info>
+	<real value="1" />
+	<name value="Rover 1" />
+	<surname value="" />
+	<movment value="6 wheel" />
+	<from value="NASA" />
+	<constructeur value="NASA" />
+	<serie value="rover" />
+	<modele value="1" />
+	<size value="2.2" />
+	<color value="yellow" />
+	<eyes value="" />
+	<armement value="" />
+	<equipements> 
+		<equipement value="" />
+	</equipements> 
+	<affiliation value="" />
+	<function value="exploration" />
+	<epoque value="2003" />
+</info>
