@@ -211,7 +211,6 @@ C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\
 C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.dll
 C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.pdb
 C:\Users\Thib\Google Drive\_Assistant\Assistant\Servodroid\Servodroid\bin\Aspose.OCR.dll
-D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\Servodroid.csprojResolveAssemblyReference.cache
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\csc.exe
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -231,6 +230,7 @@ D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Antlr3.Runtime.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\EntityFramework.SqlServer.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Iesi.Collections.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_communication.exe
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_deployer.exe
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_financial.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Image.dll
@@ -241,6 +241,7 @@ D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_scheduler.exe
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_Tobi.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_trading.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_video.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_web.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Core.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -273,7 +274,7 @@ D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Deploy
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\System.Web.WebPages.Razor.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\WebGrease.dll
-D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools_Generic.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools4Libraries.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Octokit.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_database.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Aspose.OCR.dll
@@ -328,7 +329,7 @@ D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.OA
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Google.xml
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.Twitter.xml
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools_Generic.pdb
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools4Libraries.pdb
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Octokit.pdb
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Octokit.xml
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_database.pdb
@@ -353,9 +354,6 @@ D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\fr\System.Data.SqlServerCe.resources.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\Servodroid.csprojResolveAssemblyReference.cache
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.pdb
-D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_web.dll
-D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_communication.exe
-D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools4Libraries.dll
-D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools4Libraries.pdb
