@@ -357,3 +357,5 @@ D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\obj\Debug\ServOdroid.pdb
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_web.dll
 D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Manager_communication.exe
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools4Libraries.dll
+D:\DEV\_Assistant\Assistant\Servodroid\Servodroid\bin\Tools4Libraries.pdb
